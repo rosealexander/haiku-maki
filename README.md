@@ -6,18 +6,18 @@ and deployed to the [Heroku](https://www.heroku.com).
 
 ## Demo
 
-###[Live]() at [www.heroku.com/app/haiku-maki]().
+###[Live at https://haiku-maki.herokuapp.com/](https://haiku-maki.herokuapp.com/).
 
-<img src="haiku-maki-demo.gif" alt="UX/UI preview" width="300">
+<img align="right" src="haiku-maki-demo.gif" alt="UX/UI preview" width="300">
 
-###There are six total Haiku at a time.
-### Haiku at the bottom get replaced.
-###Drag and drop to reorganize them.
-###When adding a Haiku try to keep each lines length to roughly [5-7-5](https://en.wikipedia.org/wiki/Haiku_in_English) syllables.
+#### There are six total Haiku at a time.
+#### Haiku at the bottom get replaced.
+#### Drag and drop to reorganize them.
+#### Try to keep each lines length to [5-7-5](https://en.wikipedia.org/wiki/Haiku_in_English) syllables.
 
 ## Tools
 
-###Front-end
+### Front-end
 * [React.js](https://reactjs.org) Open-source, front end, JavaScript library.
 * [axios](https://github.com/axios/axios) HTTP client for the browser and node.js.
 * [Material-UI](https://material-ui.com) Open source user interface library.
@@ -25,18 +25,18 @@ and deployed to the [Heroku](https://www.heroku.com).
 * [bad-words](https://github.com/web-mech/badwords) A javascript filter for badwords.
 * [syllable](https://github.com/words/syllable) Syllable count in JavaScript..
 
-###Back-end
+### Back-end
 * [Express](https://expressjs.com) Web framework for Node.js.
 * [Sequelize](https://sequelize.org) A promise-based Node.js ORM.
 * [node-postgres](https://node-postgres.com) PostgreSQL Node.js interface modules.
 * [helmet](https://helmetjs.github.io) Express.js security with HTTP headers.
 
-###Development
+### Development
 * [nodemon](https://nodemon.io) Monitor and automatically restart your server.
 * [json-server](https://github.com/typicode/json-server) A full fake REST API.
 * [dotenv](https://github.com/motdotla/dotenv) Loads environment variables from a .env.
 
-###Engine
+### Engine
 * [Node](https://nodejs.org/en/) A back-end JavaScript runtime environment
 * [npm](https://www.npmjs.com) Node package manager.
 
