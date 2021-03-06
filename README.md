@@ -6,7 +6,7 @@ and deployed to the [Heroku](https://www.heroku.com).
 
 ## Demo
 
-###[Live at https://haiku-maki.herokuapp.com/](https://haiku-maki.herokuapp.com/).
+### [Live at https://haiku-maki.herokuapp.com/](https://haiku-maki.herokuapp.com/).
 
 <img align="right" src="haiku-maki-demo.gif" alt="UX/UI preview" width="300">
 
